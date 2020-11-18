@@ -1,3 +1,4 @@
+#
 #!/bin/bash
 
 for port in $(seq 1 65535); do
